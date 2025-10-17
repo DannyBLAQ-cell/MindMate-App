@@ -1,0 +1,34 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android related
+/android/.gradle/
+android/.idea/
+android/local.properties
+android/app/debug
+android/app/profile
+android/app/release
+
+# iOS related
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+
+# Visual Studio Code
+.vscode/
+
+# Others
+*.log
+*.lock
+*.tmp
+*.swp
+*.idea/
+*.iml
+
+# Gradle
+.gradle/
